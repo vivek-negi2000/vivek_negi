@@ -1,0 +1,130 @@
+body{
+  margin:0;
+color:#40514e;
+  text-align: center;
+  font-family: 'Merriweather' ;
+}
+.top-container{
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top:100px;
+}
+.skill-row{
+  width:50%;
+  margin:70px auto 70px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.top{
+  position:absolute;
+  right:300px;
+  top:50px;
+}
+
+.bottom{
+  position:absolute;
+  left:300px;
+  bottom:300px;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento';
+  font-size: 5.625rem;
+color:#66bfbf;
+}
+h2{
+  font-family: 'Heebo', sans-serif;
+font-size: 2rem;
+color: #66bfbf;
+font-weight: normal;
+padding-bottom: 10px;
+
+}
+h3{
+  color:#11999e;
+}
+.last{
+  color:#eaf6f6;
+  font-size: 0.75rem;
+  padding:20px 0;
+}
+
+.pro{
+  text-decoration: underline;
+}
+.my{
+  width: 25%;
+  padding-top: 25px;
+}
+.code{
+width:25%;
+float:left;
+margin-right: 30px;
+border-radius: 50%
+}
+.chillies{
+  width:25%;
+  float:right;
+  margin-right: 30px;
+}
+hr{
+border:dotted #99f3bd 6px;
+border-bottom: none;
+width:4%;
+margin:100px auto 100px auto;
+  }
+.pp{
+  width:30%;
+  margin:auto;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Heebo', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+p{
+  line-height: 2;
+}
+.bottom-container{
+  background-color: #66bfbf;
+  margin-top: 70px;
+  height: 100px;
+
+}
+a{
+  color:#f3e6e3;
+  font-family: 'Montserrat',sans-serif;
+  margin:10px 20px;
+}
+a:hover{
+  color:#eaf6f6;
+}
+.middle-container{
+  margin :100px 0;
+}
+.contact-me{
+  width:40%;
+  margin: 40px auto 60px;
+}
